@@ -11,6 +11,8 @@ int main() {
     printf("Age: %d\n", age);
     printf("Height: %f\n", height);
     printf("Weight: %lf\n", weight);
-    
+
+    printf("add the code here");
+
     return 0;
 }
